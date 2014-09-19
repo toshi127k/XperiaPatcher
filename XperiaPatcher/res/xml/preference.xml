@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Preference android:summary="@string/pref_copyright_summary"
+        android:key="@string/pref_coyright_key"
+        android:title="@string/app_name"/>
+    <CheckBoxPreference android:key="@string/pref_batterymod_key" 
+        android:defaultValue="false" 
+        android:summary="@string/pref_batterymod_summary" 
+        android:title="@string/pref_batterymod_title"/>
+    <CheckBoxPreference android:summary="@string/pref_wifiiconmod_summary" 
+        android:key="@string/pref_wifiiconmod_key" 
+        android:title="@string/pref_wifiiconmod_title"/>
+    <PreferenceCategory android:title="@string/pref_category_toolsrowmod">
+    <CheckBoxPreference android:summary="@string/pref_toolsrowmod_summary" 
+        android:key="@string/Pref_toolsrowmod_key" 
+        android:title="@string/pref_toolsrowmod_title"/>
+    <EditTextPreference android:defaultValue="4" 
+        android:summary="@string/pref_itemsinarow_summary" 
+        android:inputType="number"
+        android:title="@string/pref_itemsinarow_title" 
+        android:key="@string/pref_itemsinarow_key"/>
+    <EditTextPreference android:defaultValue="100.0" 
+        android:summary="@string/pref_rowheight_summary" 
+        android:title="@string/pref_rowheight_title" 
+        android:key="@string/pref_rowheight_key" 
+        android:inputType="numberDecimal"/>
+    </PreferenceCategory>
+    <Preference android:title="@string/pref_image_title" android:key="@string/pref_image_key"/>
+</PreferenceScreen>

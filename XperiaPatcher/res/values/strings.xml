@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Xperia Patcher</string>
+    <string name="app_description">SystemUI patcher for Xperia(KK)</string>
+    <string name="pref_coyright_key">copy_right</string>
+    <string name="pref_copyright_summary">Copyright 2014- Toshi127k</string>
+    <string name="pref_batterymod_key">BatteryMod</string>
+    <string name="pref_batterymod_title">Add Battery Icon(circle)</string>
+    <string name="pref_batterymod_summary">add battery icon to status bar</string>
+    <string name="pref_wifiiconmod_key">WifiIconMod</string>
+    <string name="pref_wifiiconmod_title">Wifi Icon mod</string>
+    <string name="pref_wifiiconmod_summary">Merge Wifiicon to Signalicon</string>
+    <string name="Pref_toolsrowmod_key">ToolsRowMod</string>
+    <string name="pref_toolsrowmod_title">Quick setting panel</string>
+    <string name="pref_toolsrowmod_summary">Move tools-row into Notification panel</string>
+    <string name="pref_itemsinarow_key">ItemsInARow</string>
+    <string name="pref_itemsinarow_title">Items in a Row</string>
+    <string name="pref_itemsinarow_summary">number of tool-items in a row(currentry %s)</string>
+    <string name="pref_rowheight_key">RowHeight</string>
+    <string name="pref_rowheight_title">Tools-row Height</string>
+    <string name="pref_rowheight_summary">Number of tools-row height in DIP(currentry %s)</string>
+    <string name="pref_category_toolsrowmod">Quick Setting Panel</string>
+    <string name="pref_image_key">ImageUri</string>
+    <string name="pref_image_title">Background of notification</string>
+    <string name="use_specified">Use the specified image</string>
+    <string name="not_modify">Not modify</string>
+    <string name="create_bitmap">Creating  the bitmap</string>
+    <string name="save_image">Saving the image</string>
+
+</resources>

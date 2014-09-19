@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Xperia Patcher</string>
+    <string name="app_description">Xperia(KK)向けPatcher</string>
+    <string name="pref_copyright_summary">Copyright 2014- Toshi127k</string>
+    <string name="pref_batterymod_title">バッテリーアイコン</string>
+    <string name="pref_batterymod_summary">ステータスバーにアイコンを追加する</string>
+    <string name="pref_wifiiconmod_title">Wifiアイコン</string>
+    <string name="pref_wifiiconmod_summary">Wifiアイコンをアンテナピクトと統合する</string>
+    <string name="pref_toolsrowmod_title">クイックセッティングパネル</string>
+    <string name="pref_toolsrowmod_summary">QSパネルを通知パネルに表示する</string>
+    <string name="pref_itemsinarow_title">パネル１行のアイテム数</string>
+    <string name="pref_itemsinarow_summary">現在 %s個</string>
+    <string name="pref_rowheight_title">パネルの高さ</string>
+    <string name="pref_rowheight_summary">現在 %sDIP</string>
+    <string name="pref_category_toolsrowmod">クイック設定ツール</string>
+    <string name="pref_image_title">通知領域の背景</string>
+    <string name="use_specified">指定イメージを使用</string>
+    <string name="not_modify">変更しない</string>
+    <string name="create_bitmap">Bitmapを作成中</string>
+    <string name="save_image">イメージを保存中</string>
+    
+</resources>
